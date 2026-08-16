@@ -1,0 +1,6 @@
+interface:
+  display_name: "Boy Scout"
+  short_description: "Refactor uncommitted code and related tests"
+  default_prompt: "Use $boy-scout to improve my uncommitted changes, their direct call chain, and related tests."
+policy:
+  allow_implicit_invocation: false
