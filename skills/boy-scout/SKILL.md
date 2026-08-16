@@ -1,6 +1,7 @@
 ---
 name: boy-scout
 description: Explicitly invoked workflow for improving current uncommitted code, its direct upstream and downstream call chain, and related tests and documentation. Apply proportional, verified refactoring without changing unrelated behavior, overwriting user work, or expanding into a redesign.
+disable-model-invocation: true
 ---
 
 # Boy Scout
