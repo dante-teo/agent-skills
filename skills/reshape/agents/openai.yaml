@@ -1,0 +1,6 @@
+interface:
+  display_name: "Reshape"
+  short_description: "Reshape pending changes into one coherent design"
+  default_prompt: "Use $reshape to rework all my uncommitted changes into one coherent implementation, preserving the intended final behavior."
+policy:
+  allow_implicit_invocation: false
